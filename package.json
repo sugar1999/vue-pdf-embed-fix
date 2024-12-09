@@ -21,7 +21,8 @@
     "build": "webpack build --progress",
     "serve": "webpack serve --config webpack.dev.config.js --hot",
     "test": "jest",
-    "lint": "eslint src demo --ext js,vue --fix"
+    "lint": "eslint src demo --ext js,vue --fix",
+    "publish": "pnpm publish --no-git-checks --registry=http://nexus.chis.msunsoft.com:8081/repository/npm-private/"
   },
   "devDependencies": {
     "@babel/core": "^7.14.2",
