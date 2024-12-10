@@ -2,6 +2,8 @@
 
 PDF embed component for Vue 2 and Vue 3
 
+**Note:** 修复V1中PDF打印预览出现的空白页问题
+
 [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/mentioned-badge.svg)](https://github.com/vuejs/awesome-vue)
 [![npm](https://img.shields.io/npm/v/vue-pdf-embed)](https://npmjs.com/package/vue-pdf-embed)
 [![npm](https://img.shields.io/npm/dm/vue-pdf-embed)](https://npmjs.com/package/vue-pdf-embed)
